@@ -18,6 +18,25 @@ or
 git clone https://github.com/Kasra1377/document-invoice.git
 ```
 
+### 🛠Technologies Used
+---
+**IDE**:  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+**Language(s):**  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Libraries:**  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+### ❌Bugs & Issues
+---
+If you ever encountered any bugs or any technical issues in this projects you can report it by `issues` section of this repository or you can contact me by my email address. 
+
+### 👥Contributers
+---
+Kasra1377
+
+
 ![1](outputs/output.webm)
 ![2](outputs/output1.avi)
 ![3](outputs/output2.avi)
