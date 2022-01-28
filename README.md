@@ -3,9 +3,15 @@
 📝Description
 ---
 Fitness Tracker is a project that helps exercisers to track their exercises way better. This application does two main tasks:
-1)measures the count of dambbells which are lifted up and down by exerciser.
-2)Counts the number of stand and sits that exerciser does during his/her exercise.
-This application is made with the help of Pose module of the Google's MediaPipe API. 
+
+
+1)Measures the count of dambbells which are lifted up and down by the exerciser.
+
+
+2)Counts the number of stands and sits that exerciser does during his/her exercise.
+
+
+This application is made with the help of Pose module of the Google's MediaPipe API.
 
 ### 🖥 Installation
 ---
@@ -17,6 +23,15 @@ or
 ```
 git clone https://github.com/Kasra1377/document-invoice.git
 ```
+
+
+### Result
+---
+All of the results of this project are available in `outputs` folder.
+
+<video src="outputs/output.webm"></video>
+<video src="outputs/output1.avi"></video>
+<video src="outputs/output2.avi"></video>
 
 ### 🛠Technologies Used
 ---
@@ -35,8 +50,3 @@ If you ever encountered any bugs or any technical issues in this projects you ca
 ### 👥Contributers
 ---
 Kasra1377
-
-
-![1](outputs/output.webm)
-![2](outputs/output1.avi)
-![3](outputs/output2.avi)
