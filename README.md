@@ -29,9 +29,8 @@ git clone https://github.com/Kasra1377/document-invoice.git
 ---
 All of the results of this project are available in `outputs` folder.
 
-<video src="outputs/output.webm"></video>
-<video src="outputs/output1.avi"></video>
-<video src="outputs/output2.avi"></video>
+![Scan](outputs/output1.gif)
+![Scan](outputs/output2.gif)
 
 ### 🛠Technologies Used
 ---
