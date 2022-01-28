@@ -17,11 +17,11 @@ This application is made with the help of Pose module of the Google's MediaPipe 
 ---
 The Code is written in Python 3.7.5. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensure you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 ```
-git@github.com:git@github.com:Kasra1377/document-invoice.git
+git@github.com:git@github.com:Kasra1377/fitness-tracker.git
 ```
 or
 ```
-git clone https://github.com/Kasra1377/document-invoice.git
+git clone https://github.com/Kasra1377/fitness-tracker.git
 ```
 
 
@@ -29,8 +29,8 @@ git clone https://github.com/Kasra1377/document-invoice.git
 ---
 All of the results of this project are available in `outputs` folder.
 
-![Scan](outputs/output1.gif)
-![Scan](outputs/output2.gif)
+![1](outputs/output1.gif)
+![2](outputs/output3.gif)
 
 ### 🛠Technologies Used
 ---
