@@ -5,10 +5,10 @@
 Fitness Tracker is a project that helps exercisers to track their exercises way better. This application does two main tasks:
 
 
-1)Measures the count of dambbells which are lifted up and down by the exerciser.
+1.Measures the count of dambbells which are lifted up and down by the exerciser.
 
 
-2)Counts the number of stands and sits that exerciser does during his/her exercise.
+2.Counts the number of stands and sits that exerciser does during his/her exercise.
 
 
 This application is made with the help of Pose module of the Google's MediaPipe API.
