@@ -5,17 +5,17 @@
 Fitness Tracker is a project that helps exercisers to track their exercises way better. This application does two main tasks:
 
 
-1.Measures the count of dambbells which are lifted up and down by the exerciser.
+1. Measures the count of dumbbells that are lifted up and down by the exerciser.
 
 
-2.Counts the number of stands and sits that exerciser does during his/her exercise.
+2. Counts the number of stands and sits that the exerciser does during exercise.
 
 
-This application is made with the help of Pose module of the Google's MediaPipe API.
+This application is made with the help of the Pose module of Google's MediaPipe API.
 
 ### 🖥 Installation
 ---
-The Code is written in Python 3.7.5. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensure you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
+The Code is written in Python 3.7.5. If you don't have Python installed, you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python, you can upgrade using the pip package to ensure you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 ```
 git@github.com:git@github.com:Kasra1377/fitness-tracker.git
 ```
@@ -27,7 +27,7 @@ git clone https://github.com/Kasra1377/fitness-tracker.git
 
 ### Result
 ---
-All of the results of this project are available in `outputs` folder.
+All of the results of this project are available in the `outputs` folder.
 
 ![1](outputs/output1.gif)
 ![2](outputs/output3.gif)
@@ -44,7 +44,7 @@ All of the results of this project are available in `outputs` folder.
 
 ### ❌Bugs & Issues
 ---
-If you ever encountered any bugs or any technical issues in this projects you can report it by `issues` section of this repository or you can contact me by my email address. 
+If you ever encounter any bugs or technical issues in this project, you can report it to the `issues` section of this repository, or you can contact me by my email address. 
 
 ### 👥Contributers
 ---
